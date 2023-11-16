@@ -1,0 +1,24 @@
+﻿  animation.c
+  main.c
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\main.c(8,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  yahtzee.c
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(803,11): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(803,11): warning C4024: 'rollDice': different types for formal and actual parameter 1
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(803,18): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(803,18): warning C4024: 'rollDice': different types for formal and actual parameter 2
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(809,35): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(809,35): warning C4024: 'calcPreview': different types for formal and actual parameter 2
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(812,12): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(812,12): warning C4024: 'printDice': different types for formal and actual parameter 1
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(812,19): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(812,19): warning C4024: 'printDice': different types for formal and actual parameter 2
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(832,14): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(832,14): warning C4024: 'holdDice': different types for formal and actual parameter 1
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(832,21): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(832,21): warning C4024: 'holdDice': different types for formal and actual parameter 2
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(879,48): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(879,48): warning C4024: 'bankScore': different types for formal and actual parameter 3
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(879,55): warning C4047: 'function': 'int *' differs in levels of indirection from 'int (*)[5]'
+C:\Users\ZU420\source\repos\Yahtzee_PA_5\Yahtzee_PA_5\yahtzee.c(879,55): warning C4024: 'bankScore': different types for formal and actual parameter 4
+  Generating Code...
+  Yahtzee_PA_5.vcxproj -> C:\Users\ZU420\source\repos\Yahtzee_PA_5\x64\Debug\Yahtzee_PA_5.exe
